@@ -1,0 +1,29 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Build artifacts
+build/
+eggs/
+
+# Scrapy output
+bookdata.csv
+bookdata.json
+bookdata.jsonl
+
+# Scrapyd
+logs/
+dbs/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
