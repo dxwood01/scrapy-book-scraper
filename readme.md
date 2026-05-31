@@ -204,7 +204,7 @@ View live stats, errors, item counts, and request logs from the ScrapeOps dashbo
 
 ## License
 
-MIT License — feel free to use, adapt and build on this project.
+[MIT License](LICENSE) — feel free to use, adapt and build on this project.
 
 ## Acknowledgements
 
@@ -212,4 +212,4 @@ MIT License — feel free to use, adapt and build on this project.
 - [ScrapeOps](https://scrapeops.io) — monitoring, fake headers, and proxy aggregator
 - [Oxylabs](https://oxylabs.io) — Web Unblocker proxy service
 - [The Python Scrapy Playbook](https://thepythonscrapyplaybook.com/freecodecamp-beginner-course/) — course material this project is based on
-- [YouTube Tutorial by John Watson Rooney](https://www.youtube.com/watch?v=mBoX_JCKZTE) — video walkthrough followed during development
+- [YouTube Tutorial by freeCodeCamp](https://youtu.be/mBoX_JCKZTE?si=nTmBJdzlPZEfizks) — video walkthrough followed during development
